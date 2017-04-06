@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tuze.remindtakehome.Activities.DisplayVenuesActivity">
+    <item
+        android:id="@+id/bookMark"
+        android:orderInCategory="100"
+        android:title="BookMark"
+        android:icon="@mipmap/bookmark"
+        app:showAsAction="ifRoom" />
+</menu>
