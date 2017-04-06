@@ -1,4 +1,4 @@
-# Code Challenge *Remind*
+# Demo App Using *Foursquare API*
 
 Submitted by: **Rabia Tugce Keser**
 
@@ -13,7 +13,7 @@ Submitted by: **Rabia Tugce Keser**
 
 ## Video Walkthrough 
 
-Remind_App_Demo.mp4 file in RemindTakeHome Project
+
 
 ## Notes
 
