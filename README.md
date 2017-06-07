@@ -1,4 +1,4 @@
-# Demo App Using *Foursquare API*
+# Lighthouse*
 
 Submitted by: **Rabia Tugce Keser**
 
